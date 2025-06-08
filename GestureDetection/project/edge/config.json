@@ -1,0 +1,8 @@
+{
+  "SSID": "XXX",
+  "PASSWORD": "XXX",
+  "SERVER_IP": "XXX",
+  "COMMANDS_PORT": 5000,
+  "DATA_PORT": 5001,
+  "WINDOW_SIZE": 240
+}

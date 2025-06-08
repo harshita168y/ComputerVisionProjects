@@ -1,0 +1,4 @@
+Palm
+ThumbsDown
+ThumbsUp
+Unknown
