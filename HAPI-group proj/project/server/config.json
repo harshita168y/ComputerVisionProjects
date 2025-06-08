@@ -1,8 +1,0 @@
-{
-  "host": "192.168.119.60",
-  "port": 5000,
-  "data_port": 5001,
-  "client_port": 5002,
-  "speech_rate": 150,
-  "speech_volume": 1.0
-}
