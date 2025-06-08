@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+  ThumbsDown       0.97      0.94      0.96        34
+    ThumbsUp       0.84      1.00      0.91        32
+     Unknown       1.00      0.91      0.95        58
+
+    accuracy                           0.94       124
+   macro avg       0.94      0.95      0.94       124
+weighted avg       0.95      0.94      0.94       124
